@@ -1,2 +1,0 @@
-# hellogit
-welcome for guide
