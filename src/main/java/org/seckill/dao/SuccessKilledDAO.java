@@ -15,4 +15,5 @@ public interface SuccessKilledDAO {
     	//2 查询单个商品秒杀记录并返回商品属性
     SuccessKilled queryByIdWithSeckill(@Param("seckillId") long seckillId, @Param("userPhone") long userPhone);
 
+	//增加注释
 }
